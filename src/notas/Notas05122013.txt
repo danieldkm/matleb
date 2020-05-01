@@ -1,0 +1,3 @@
+-Possibilar a remoçao de alunos e fases.
+-Os administadores podem jogar todos os modulos por padrao.
+-Reajustar os dialogos de confirmação nas telas que utilizam ele.
